@@ -2,3 +2,5 @@ language: c
 compiler:
   - clang
   - gcc
+notifications:
+  slack: hwmsrobotics:tOSeM33PmvaBckBa5YsrOY0L
